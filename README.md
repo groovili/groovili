@@ -17,4 +17,4 @@
   
 &nbsp;
   
-[![HitCount](http://hits.dwyl.com/{groovili}/{groovili}.svg)](http://hits.dwyl.com/{groovili}/{groovili})
+[![HitCount](http://hits.dwyl.com/groovili/groovili.svg)](http://hits.dwyl.com/groovili/groovili)
