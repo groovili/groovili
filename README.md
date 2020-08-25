@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-- 🌱 I’m currently learning K8S, Kafka, Microservice architecture
+- 🌱 I’m currently learning K8S, Kafka, AWS
 - 👯 Open for collaboration on open-source projects
 - 💬 Ask me about @golang
 - 📫 How to reach me: <a href="mailto:m.ivanov.work@gmail.com">m.ivanov.work@gmail.com</a>
