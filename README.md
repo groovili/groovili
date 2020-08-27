@@ -14,7 +14,3 @@
 </a>
 <a href="https://lon9.github.io">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=groovili&theme=light&hide=html" />
-  
-&nbsp;
-  
-[![HitCount](http://hits.dwyl.com/groovili/groovili.svg)](http://hits.dwyl.com/groovili/groovili)
